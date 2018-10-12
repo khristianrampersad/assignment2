@@ -3,7 +3,7 @@
 }
 body {
     margin: 0 0 70px 0;
-    background: url("assets/images/full-bloom.png");
+    background: url('../images/full-bloom.png');
 }
 header {
     width: 100%;
